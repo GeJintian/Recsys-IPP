@@ -5,3 +5,5 @@ Using Reco-gym simulator. See this in https://github.com/criteo-research/reco-gy
 Base is DQN without lstm.
 
 DRQN is DQN with lstm.
+
+This project is incompleted. Many files are lost.
